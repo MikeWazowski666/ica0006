@@ -11,8 +11,8 @@ password: student1234
 
 ## Plan
 
-RAID type: tba
-OS: ubuntu server 22.xx
+RAID type: tba<br>
+OS: ubuntu server 22.xx<br>
 Software: k8s
 
 k8s workers on 3 servers (2 on bare metal, 1 on vm). k8s control plone will be ran on bare metal as well.
